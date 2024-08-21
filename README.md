@@ -10,3 +10,4 @@ This is a simple Python application where users try to guess a randomly generate
 - After each guess, the program will inform you if your guess is too high, too low, or correct.
 - The game will continue until you guess the correct number.
 - Once the correct number is guessed, the program will display the total number of attempts it took you to guess correctly.
+- also cattered for a random number not to be repeated .
